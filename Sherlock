@@ -6,33 +6,33 @@ Githyanki, Urchin
 	Use Astral Knowledge and Enhance Ability for INT skills while travelling, Charisma for Dialogue/Merchants.
 	
 Level 1:		Rogue
-					STR:  8		DEX (+2):  16		CON:  10		INT:  8		WIS:  15		CHA (+1):  16
-					Proficiency:	Acrobatics, Investigation, Insight, Perception
-					Expertise:		Investigation, Perception
+				STR:  8		DEX (+2):  16		CON:  10		INT:  8		WIS:  15		CHA (+1):  16
+				Proficiency:	Acrobatics, Investigation, Insight, Perception
+				Expertise:		Investigation, Perception
 
 Level 2:		Bard
-					Cantrips:	Light, Minor Illusion
-					Spells:		Speak with Animals, Longstrider, Healing Word, Cure Wounds
+				Cantrips:	Light, Minor Illusion
+				Spells:		Speak with Animals, Longstrider, Healing Word, Cure Wounds
 
 Level 3:		Bard
-					Spells:		Feather Fall
+				Spells:		Feather Fall
 
 Level 4:		Bard
-					Subclass:	College of Swords, Duelling
-					Spells:		Enhance Ability:  Gain Advantage on Ability Checks. Use Intelligence when travelling. Charisma for dialogue.
-					Replace:	Feather Fall with See Invisibility
+				Subclass:	College of Swords, Duelling
+				Spells:		Enhance Ability:  Gain Advantage on Ability Checks. Use Intelligence when travelling. Charisma for dialogue.
+				Replace:	Feather Fall with See Invisibility
 
 Level 5:		Bard
-					Take Feat:	Resilient and choose Wisdom
+				Take Feat:	Resilient and choose Wisdom
 
 Level 6:		Rogue
 
 Levels 7 - 12: Arcane Trickery Rogue
  
 		Arcane Trickery Spells
-				Cantrips:	Acid Splash, Bone Chill
-				Level 1:		False Life, Shield, Enhance Leap, Disguise Self
-				Level 2:		Magic Weapon, Misty Step, Mirror Image
+			Cantrips:	Acid Splash, Bone Chill
+			Level 1:	False Life, Shield, Enhance Leap, Disguise Self
+			Level 2:	Magic Weapon, Misty Step, Mirror Image
 				
-		Level 8 Feat:		Sentinel
+		Level 8 Feat:	Sentinel
 		Level 12 Feat:	Medium Armour Master
